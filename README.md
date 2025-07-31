@@ -10,5 +10,5 @@ Below is the animation that I have captured.
 
 
 
-![animation-GOF](https://github.com/infinite08/CUDA_Game_of_life/blob/main/animation-GOF.gif?raw=true)
+![animation-GOL](https://github.com/infinite08/CUDA_Game_of_life/blob/main/animation-GOL.gif?raw=true)
 

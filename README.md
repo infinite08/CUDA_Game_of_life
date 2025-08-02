@@ -26,7 +26,7 @@ This also happened to one of my assignments but we will conviently ignore that :
 
 
 ## Why Google Colab?
-I recognise that not everyone has access to GPU's( i didn't!) and that's why I decided to write the code in Google colab. This way anyone can change the code and run it,irrepctive of thier machine.
+I recognise that not everyone has access to GPU's( i didn't!) and that's why I decided to write the code in Google colab. This way anyone can change the code and run it,irrespective of their machine.
 
 Colab also gives you the flexibility to experiment!,you can always change the code and see how diffrent the performance is affected.
 
